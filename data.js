@@ -83,9 +83,6 @@ channels:[
 {name:"Devika’s Commerce",links:[
 "https://youtube.com/embed/videoseries?list=PL32yVakBnz3KJkri5LmhkNdFuPeTmyWlt"
 ]},
-{name:"Commerce Class Partner",links:[
-"https://youtube.com/embed/videoseries?list=PLVBb3feu_E7q2eibRidZw1bo1KQ52isDg"
-]},
 {name:"CWG for B.Com",links:[
 "https://youtube.com/embed/videoseries?list=PL9Cd7H8NFRQymNGuIkEE-ZD9aNjk9KxWZ"
 ]}
@@ -126,7 +123,7 @@ channels:[
 name:"Universal Human Values",
 channels:[
 {name:"Tegron Learning Hub",links:[
-"https://youtube.com/embed/videoseries?list=PZQCoQdLJmw"
+"https://youtube.com/embed/videoseries?list=PLTGveumUgIXIn62KrUZEMuR7AgK2iabBe&si=Ru6F2O7-7rRb5zz7"
 ]}
 ]
 },
